@@ -1,4 +1,7 @@
 
 .colorbar {
-  height: 200px;
+  height: 20px;
+  transform-box: fill-box;
+  transform-origin: 50% 50%;
+  transform: rotate(45deg);
 }
